@@ -1,0 +1,27 @@
+.container{
+    width: 100px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-right: auto;
+}
+.row-gallery{
+    display: flex;
+
+
+}
+.col{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: aqua;
+    flex: 1;
+   
+    /**1/3**/
+    padding-top: 20px;
+
+
+}
+.col img{
+    width: 300px;
+    height: 400px;
+}
